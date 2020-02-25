@@ -1,0 +1,13 @@
+.bounding-box{
+	position: absolute;
+    box-shadow: 0 0 0 3px #ffb700 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.prediction-text{
+	position: absolute;
+	color: #ffb700;
+}
